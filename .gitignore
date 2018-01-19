@@ -1,0 +1,12 @@
+/vendor
+/.idea
+/database/**/*.sqlite
+/public/assets/css/**/*.css
+/public/assets/fonts
+/node_modules
+/bower_components
+Homestead.json
+Homestead.yaml
+.env
+.DS_Store
+_*.php

@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'date_25m' => '2007-2016',
+  'date_hype' => '2018 Q2/Q3',
+  'date_platform' => '2018 Q4',
+  'title' => 'Mapa de Ruta',
+  'title_25m' => '29M+ usuarios base',
+  'title_fundamentals' => 'Fundamentos de la web',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => 'Los mejores Cursos de Aprendizaje de IT en línea',
+  'title_hype' => 'Hype en el sector de los estudiantes',
+  'title_platform' => 'Lanzamiento de la Plataforma de Negocios',
+  'title_future' => 'Futuro',
+  'date_fundamentals' => 'Primavera 2017',
+  'date_ico' => 'Verano/Otoño 2017',
+  'date_courses' => 'Invierno/Primavera 2018',
+  'date_future' => 'Futuro',
+  'description_25m' => 'Llegó a 29 millones de usuarios en 000webhost plataforma de aprendizaje de desarrollo web, y Hostinger - servicio de alojamiento web. La mayor parte de los usuarios son jóvenes expertos en tecnología con profunda voluntad de aprender, construir y crecer. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow"> Los usuarios nos aman </a> como una plataforma de aprendizaje en línea ya.',
+  'description_fundamentals' => 'Se preparó un resumen de más de 500 artículos sobre <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank"> fundamentos de codificación web </a>. Se pulio la estrategia empresarial. Acercarse a los primeros socios comerciales. Consultoría con numerosas universidades y empresas de blockchain para desarrollar cursos de primer nivel.',
+  'description_ico' => 'Período de construcción del Ethereum Smart Contract para el próximo evento de BitDegree ICO. Un fichero ERC20, auditando el código SM. Desarrollo de MOOC Asociaciones de expertos en educación. Márketing. BitDegree Token Crowdsale & Evento de distribución.',
+  'description_courses' => 'Lanzamiento del primer material del curso Blockchain. Contratar expertos para gestionar la expansión del proyecto. Fuente de los mejores tutores. Blockchain identificación de registro de investigación e implementación. Proveedores de terceros a bordo. Repositorio de materiales de curso y generalización de estructuras. Lanzamiento de los primeros 100 cursos con la mejor experiencia de aprendizaje en línea del mundo.',
+  'description_hype' => 'Continuar la mejora del conocimiento de Blockchain. Se publicó la primera donación simbólica. Los primeros socios aceptan la ficha en el ecosistema de BitDegree. Comienzan las actividades de marketing orientadas a la participación de estudiantes con comunidades de influyentes fuertes y alianzas. Logro y seguimiento de la gamificación para los estudiantes. Herramientas que permiten verificar el esfuerzo del estudio. Área de estudio y visor de logros estudiantiles. Implementación de contratos de incentivos inteligentes. Desarrollo de la plataforma móvil. Los estudiantes como mentores. Contenido de terceros. Asesores de terceros.',
+  'description_platform' => 'Desarrollo y lanzamiento de la plataforma para Patrocinadores. Desarrollo de negocios hacia patrocinios con un fuerte énfasis en el desarrollo de cursos con un enfoque en habilidades con demanda. Creación de fuentes para el talento. Índice del material del curso. Área de patrocinio. Curso de mapeo de trozos y caminos de carrera de la zona de construcción.',
+  'description_future' => 'Integraciones de terceros. Proveedor de servicios digitales SDK Development. Creación de SDK para proveedores de servicios digitales integrar las Fichas de Bitdegree como un medio de intercambio de valor en el ciclo del mercado. En este momento, las tecnologías de blockchain ya están ampliamente adoptadas. Herramientas para la integración de las fichas en terceros ya está presente. BitDegree para empresas. Trabajos de BitDegree. Certificación BitDegree. BitDegree Diploma descentralizado. Educación BitDegree AI asistente. Visor de diploma descentralizado. Entrenamiento BitDegree. BitDegree adquisición de jóvenes talentos. BitDegree Braille (educación ciega). BitDegree para los países del Tercer Mundo.',
+);

@@ -1,0 +1,28 @@
+<?php 
+
+return array (
+  'title_web_fundamentals' => 'ทฤษฎีการพัฒนาเว็บ',
+  'title_coding_fundamentals' => 'พื้นฐานการเขียนโปรแกรม',
+  'title_deep_learning' => 'Deep Learning',
+  'title_react' => 'React',
+  'title_vr_development' => 'การพัฒนา VR',
+  'title_ai_development' => 'การพัฒนา AI',
+  'title_robotics' => 'หุ่นยนต์',
+  'title_neuro_marketing' => 'Neuro Marketing',
+  'title_digital_graphics' => 'Digital Graphics',
+  'title_build_website' => 'สร้างเว็บไซต์ตั้งแต่เริ่มต้น',
+  'title_building_apps' => 'สร้างแอปแอนดรอยด์',
+  'title_game_development' => 'การพัฒนาเกม 2D',
+  'title_blockchain_basics' => 'พื้นฐาน Blockchain',
+  'title_crypto_intro' => 'แนะนำให้รู้จักกับ Crypto และ Cryptocurrencies',
+  'title_ethereum_basics' => 'พื้นฐาน Ethereum',
+  'title_smart_contracts' => 'การพัฒนา Smart contract & Solidity',
+  'title_ethereum_development' => 'การพัฒนา Ethereum: Truffle และ Open Zeppelin',
+  'title' => 'BitDegree แก้ปัญหาอะไร?',
+  'subtitle' => 'เราได้ก่อตั้ง BitDegree ขึ้นมาด้วยฐานของผู้ใช้งาน 29 ล้านคนที่อยู่ในฐานข้อมูลของ Hostinger และ 000webhost - ชุมชนที่ได้รับแรงบันดาลใจจากการสร้างเว็บไซต์ การเรียนรู้ นวัตกรรม และการเปิดโลกกว้าง วิสัยทัศน์ของ Hostinger คือการทำให้ผู้คนหลายล้านคนทั่วโลก สามารถใช้พลังของอินเทอร์เน็ตได้อย่างสูงสุดไร้ขอบเขต และให้พวกเขาได้เรียนรู้ สร้างสรรค์ และเติบโต',
+  'free' => 'ฟรี',
+  'new' => 'ใหม่',
+  'coming_soon' => 'เร็ว ๆ นี้',
+  'enrollment_date' => 'วันที่ลงทะเบียน',
+  'lesson_number' => 'บนเรียน :number',
+);

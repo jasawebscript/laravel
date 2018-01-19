@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'date_25m' => '2007-2016',
+  'date_hype' => '2018 Q2/Q3',
+  'date_platform' => '2018 Q4',
+  'title' => 'Foaia de parcurs',
+  'title_25m' => '29M+ baza de utilizatori',
+  'title_fundamentals' => 'Fundamente web',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => 'Cele mai bune cursuri de învățare IT online',
+  'title_hype' => 'Atragerea interesului studenților',
+  'title_platform' => 'Lansarea platformei de afaceri',
+  'title_future' => 'Viitor',
+  'date_fundamentals' => 'Primăvara 2017',
+  'date_ico' => 'Vara/toamna 2017',
+  'date_courses' => 'Iarna/primavara 2018',
+  'date_future' => 'Viitor',
+  'description_25m' => 'Am atins 29 de milioane de utilizatori pe platforma 000webhost - platformă de dezvoltare web gratuită, și Hostinger - servicii de găzduire web. Cea mai mare parte a utilizatorilor sunt tineri tehnici savvy, cu voință profundă de a învăța, de a construi și de a crește. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow">Utilizatorii ne iubesc</a> platforma de învățare online deja.',
+  'description_fundamentals' => 'Rezumatul celor 500 de articole despre <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank">fundamente de codare web</a> a fost pregătit. Șlefuirea strategiei de afaceri. Abordarea primilor parteneri de afaceri. Consultarea cu numeroase universități și companii blockchain pentru a dezvolta primele cursuri.',
+  'description_ico' => 'Perioada de construire Ethereum Smart Contract pentru viitorul eveniment BitDegree ICO. Un token ERC20, audit codului SM. Dezvoltarea parteneriatelor de expertiză educațională MOOC. Marketing. Eveniment BitDegree Token Crowdsale (strângerea de fonduri pentru finanţarea produsului prin pre-comenzi) & Distribution.',
+  'description_courses' => 'Lansarea primului material de curs Blockchain. Angajarea de experți pentru a gestiona extinderea proiectului. Sursa celor mai buni tutori. Identificarea și implementarea registrelor de identitate Blockchain. Furnizori terțe părți. Depozit material de curs și generalizare structură. Lansarea primelor 100 de cursuri cu cea mai bună experiență de învățare online din lume.',
+  'description_hype' => 'Continuăm îmbunătățirea cunoștințelor Blockchain. Prima bursă de studiu în token. Primii parteneri acceptă token în ecosistemul BitDegree. Începerea activității de marketing full-stack, orientate spre implicarea elevilor în comunități puternice de influențatori & parteneriate cu Alumni. Realizarea și urmărirea gamificării pentru studenți. Instrumente care permit verificarea efortului de studiu. Zonă de studiu și vizionarea realizărilor elevilor. Implementarea stimulentelor inteligente. Dezvoltarea platformei mobile. Studenții ca mentori. Conținut terță parte. Evaluatori terți.',
+  'description_platform' => 'Platformă dezvoltată & lansată pentru sponsori. Dezvoltarea afacerii spre sponsorizări puternice, cu accent pe dezvoltarea cursurilor de competențe în cerere. Crearea surselor pentru talent. Index material de curs. Zona de sponsorizare. Bucăți de curs și zona de construire a căilor de carieră.',
+  'description_future' => 'Integrarea terților. Dezvoltarea SDK pentru furnizorii de servicii digitale. Construire SDK pentru furnizorii de servicii digitale terță parte pentru a integra token-ul Bitdegree ca mijloc de schimb de valoare în ciclul de piață. În acest moment, tehnologiile blockchain sunt deja adoptate pe scară largă. Instrumentele de integrare a token-urilor la părțile terțe sunt deja prezente. BitDegree pentru afaceri. Locuri de muncă BitDegree. Certificare BitDegree. Diplomă BitDegree Decentralized. Învățământ BitDegree cu asistent AI (artificial intelligence). Vizualizator de diplomă decentralized. Instruire BitDegree. Achiziționarea tinerilor talentați BitDegree. BitDegree Braille (blind education). BitDegree pentru țările din lumea a treia.',
+);

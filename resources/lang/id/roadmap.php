@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'date_25m' => '2007-2016',
+  'title' => 'Skala Pertumbuhan',
+  'title_25m' => 'Lebih dari 29 juta basis pengguna',
+  'title_fundamentals' => 'Dasar-dasar web',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => 'Kursus online IT terbaik',
+  'title_hype' => 'Populer di kalangan Siswa',
+  'title_platform' => 'Platform Bisnis diluncurkan',
+  'title_future' => 'Masa depan',
+  'date_fundamentals' => 'Musim semi 2017',
+  'date_ico' => 'Musim panas/gugur 2017',
+  'date_courses' => 'Musim dingin/semi 2018',
+  'date_hype' => 'Q2/Q3 2018',
+  'date_platform' => 'Q4 2018',
+  'date_future' => 'Masa depan',
+  'description_25m' => 'Memiliki 29 juta pengguna di 000webhost - platform gratis untuk belajar membuat website, dan Hostinger - layanan web hosting. Sebagian besar penggunanya adalah pencinta teknologi dengan keinginan tinggi untuk belajar, membuat, dan mengembangkan website. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow">Para pengguna menyukai</a> layanan kami sebagai platform untuk belajar online.',
+  'description_fundamentals' => 'Ringkasan dari +500 artikel tentang <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank">web coding fundamentals</a> telah disiapkan. Meningkatkan strategi bisnis. Mendekati mitra bisnis pertama. Berkonsultasi dengan berbagai universitas dan perusahaan blockchain untuk mengembangkan kursus pertama.',
+  'description_ico' => 'Periode pembuatan Kontrak Pintar Ethereum untuk BitDegree ICO yang akan datang. Token ERC20, mengaudit kode SM. Pengembangan kemitraan untuk keahlian dan pendidikan MOOC. Pemasaran. BitDegree Token Crowdsale & Distribution Event',
+  'description_courses' => 'Menerbitkan bahan kursus Blockchain pertama. Mempekerjakan para ahli untuk mengelola perluasan proyek. Mencari tutor terbaik. Riset dan implementasi registry identitas Blockchain. Mengenalkan penyedia pihak ketiga. Repositori bahan kursus dan penyamarataan struktur. Meluncurkan 100 kursus pertama dan menawarkan pengalaman terbaik belajar online.',
+  'description_hype' => 'Melanjutkan peningkatan kualitas pendidikan Blockchain. Beasiswa token pertama diterbitkan. Mitra pertama menerapkan token dengan ekosistem BitDegree. Mulai melakukan aktivitas full-stack marketing, yang berorientasi pada keterlibatan siswa dalam komunitas yang berpengaruh & kemitraan Alumni. Tracking pencapaian dan gamification untuk para siswa. Tool yang mengaktifkan verifikasi upaya pembelajaran. Area pembelajaran dan pengawas pencapaian siswa. Implementasi kontrak smart incentives. Pengembangan platform mobile. Para siswa sebagai mentor. Konten pihak ketiga. Penilai pihak ketiga.',
+  'description_platform' => 'Mengembangkan & meluncurkan platfrom bagi Pihak Sponsor. Perkembangan bisnis terhadap sponsor yang kuat dengan penekanan pada pengembangan kursus yang berfokus pada keterampilan yang diminati. Membuat daftar pencarian para calon berbakat. Indeks bahan kursus. Area sponsor. Pemetaan kursus dan alur pengembangan karir.',
+  'description_future' => 'Integrasi pihak ketiga. Pengembangan SDK Penyedia Layanan Digital. Membuat SDK untuk Penyedia Layanan Digital pihak ketiga guna mengintegrasikan Token BitDegree sebagai rata-rata dari nilai pertukaran dalam siklus pasar. Pada saat ini, teknologi blockchain telah diadopsi secara luas. Tool untuk mengintegrasikan token ke pihak ketiga sudah tersedia. BitDegree untuk Bisnis. Karir di BitDegree. Sertifikasi BitDegree. Diploma BitDegree yang Terdesentralisasi. Asisten Pendidikan Kecerdasan Buatan (AI) BitDegree. Pengawas diploma yang terdesentralisasi. Pelatihan BitDegree. Mencari talenta muda BitDegree. Braille pada BitDegree (pendidikan tunanetra). BitDegree untuk negara-negara berkembang.',
+);

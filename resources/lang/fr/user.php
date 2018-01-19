@@ -1,0 +1,28 @@
+<?php 
+
+return array (
+  'my_account' => 'Mon compte',
+  'enter_email' => 'Entrez votre Email',
+  'welcome_back' => 'Bienvenue :name !',
+  'login' => 'S\'identifier',
+  'link_sent' => 'Votre lien de connexion instantanée a été envoyé par e-mail.',
+  'back_home' => 'Retour à la page d\'accueil',
+  'unknown_error' => 'Une erreur inconnue est survenue. Veuillez vous assurer d\'avoir entré les données correctes et réessayez.',
+  'already_member' => 'Vous avez déjà un compte chez BitDegree! Cliquez sur <strong>Connexion</strong> ci-dessous pour vous authentifier.',
+  'email_address' => 'Adresse e-mail',
+  'sample_email' => 'vous@exemple.com',
+  'or_signup' => 'ou Inscrivez-vous',
+  'signup' => 'S\'inscrire',
+  'check_email' => 'Vous êtes à un pas de la sécurisation de votre <b>jeton gratuit</b>. S\'il vous plaît, vérifiez l\'e-mail que vous nous avez fourni lors de l\'inscription et cliquez sur le lien de confirmation.',
+  'please_provide' => 'S\'il vous plaît fournissez nous quelques informations pour obtenir le statut Enregistré chez Bitdegree',
+  'name' => 'Votre Nom',
+  'optional' => 'optionnel',
+  'or_login' => 'ou Se connecter',
+  'congrats' => 'Félicitations,{{ $participant->first_name or $participant->email }}!',
+  'tokens_secured' => '<h3>Vous avez</h3> <h1>:number Jeton(s)</h1> <h3>BDG sécurisé(s) </h3>',
+  'share' => 'Partager pour obtenir plus de jetons <b>GRATUITS</b> :',
+  'congratulations' => 'Félicitations, :name !',
+  'logout' => 'Se déconnecter',
+  'almost_done' => 'Presque fini...',
+  'register' => 'S\'inscrire',
+);

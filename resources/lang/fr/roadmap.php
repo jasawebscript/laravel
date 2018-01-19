@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'title' => 'Feuille de route',
+  'title_25m' => '29M + d\'utilisateurs',
+  'title_fundamentals' => 'Fondamentaux du Web',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => 'Les meilleurs cours d\'informatique en ligne',
+  'title_hype' => 'Hype dans le secteur étudiant',
+  'title_platform' => 'Lancement d\'une plate-forme commerciale',
+  'title_future' => 'Dans le futur',
+  'date_25m' => '2007-2016',
+  'date_fundamentals' => 'Printemps 2017',
+  'date_ico' => 'Eté/Automne 2017 ',
+  'date_courses' => 'Hiver/Printemps 2018',
+  'date_hype' => 'Q2/Q3 2018',
+  'date_platform' => 'Q4 2018',
+  'date_future' => 'Dans le futur',
+  'description_25m' => 'Nous avons atteint 29 millions d\'utilisateurs sur 000webhost (plate-forme gratuite d\'apprentissage du développement web)et Hostinger (hébergement) Web. La plus grande partie des utilisateurs sont expérimentés et ont une profonde volonté d\'apprendre, de se développer et de grandir. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow"> Les utilisateurs nous adorent.</a>',
+  'description_fundamentals' => 'Synthèse de plus de 500 articles sur <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank"> les fondamentaux du développement web</a> préparée. Finition de la stratégie commerciale. Approche des premiers partenaires commerciaux. Consultation de nombreuses universités et sociétés de blockchain pour le développement des premiers cours.',
+  'description_ico' => 'Période de construction de l\'Ethereum Smart Contract pour le prochain évènement BitDegree ICO. Jeton ERC20. Audit du code SM. Développement de partenariats d\'expertise pédagogique de MOOC. Commercialisation. Crowdsale des tokens BitDegree & évènement de distribution.',
+  'description_courses' => 'Lancement du premier cours sur le Blockchain. Embauche d\'experts sur le terrain, pour gérer l\'expansion du projet. Recherche des meilleurs tuteurs. Recherche et mise en œuvre du registre d\'identité Blockchain. Présence de fournisseurs tiers. Référentiel de matériel de cours et généralisation de structure. Lancement des 100 premiers cours avec la meilleure expérience d\'apprentissage en ligne au monde.',
+  'description_hype' => 'Amélioration des connaissances en Blockchain. Première éducation par token faite. Premiers partenaires acceptant le jeton dans l\'écosystème BitDegree. Début des activités de marketing, axées sur l\'engagement des étudiants grâce à des partenariats avec des influenceurs et des anciens élèves. Suivi par gamification pour les étudiants. Outils permettant la vérification du travail effectif d\'étude. Section Etude et Réalisations des étudiants. Mise en œuvre de contrats de motivation intelligente. Développement de la plate-forme mobile. Etudiants comme mentors. Contenu de tiers. Conseillers tiers.',
+  'description_platform' => 'Plate-forme développée et lancée pour les Sponsors. Développement d\'affaires avec de solides parrainages avec un accent sur le développement de cours axés sur les compétences vraiment demandées. Création d\'un pool d\'approvisionnement de talents. Index de cours. Section Sponsorship. Section Sommaire des cours et Parcours professionnel.',
+  'description_future' => 'Intégrations tierces. Développement de SDK pour fournisseur de services numériques. Création d\'un SDK pour les fournisseurs de services numériques tiers pour intégrer les jetons Bitdegree comme moyen d\'échange de valeur dans le marché. À ce stade, les technologies de blockchain sont déjà largement adoptées. Les outils d\'intégration de token aux tiers sont déjà présents. BitDegree for Business. Jobs BitDegree. Certification BitDegree. Diplôme Décentralisé BitDegree. Assistant BitDegree Education AI. Diplôme décentralisé. Formation BitDegree. BitDegree acquisition de jeunes talents. BitTrain Braille (éducation pour aveugle). BitDegree pour les pays du tiers monde.',
+);

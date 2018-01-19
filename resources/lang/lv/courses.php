@@ -1,0 +1,28 @@
+<?php 
+
+return array (
+  'title_web_fundamentals' => 'WEB izstrādes teorija',
+  'title_coding_fundamentals' => 'Programmēšanas pamati',
+  'title_deep_learning' => 'Padziļinātā mācīšanās',
+  'title_react' => 'Reaģēt',
+  'title_vr_development' => 'VR izstrāde',
+  'title_ai_development' => 'AI izstrāde',
+  'title_robotics' => 'Robotika',
+  'title_neuro_marketing' => 'Neiromārketings',
+  'title_digital_graphics' => 'Digitālā grafilka',
+  'title_build_website' => 'Mājaslapas izveides pamati',
+  'title_building_apps' => 'Android lietotņu izstrāde',
+  'title_game_development' => '2D spēļu izstrāde',
+  'title_blockchain_basics' => 'Blokķēdes pamati',
+  'title_crypto_intro' => 'Ievads kripto valūtu pamatos',
+  'title_ethereum_basics' => 'Ethereum pamati',
+  'title_smart_contracts' => 'Gudrā līgumu izstrāde un soliditāte',
+  'title_ethereum_development' => 'Ethereum izstrāde: trifele un atvērtais cepelīns',
+  'title' => 'Kādas problēmas risina BitDegree?',
+  'subtitle' => 'Mēs esam izveidojuši BitDegree ar 29 miljonu lietotāju bāzi no Hostinger un 000webhost - lojāliem, aizrautīgiem ļaudīm , kas vēlas mācīties un radīt inovācijas atvērtajā starptautiskajā sabiedrībā. Mūsu vīzija Hostinger ir sniegt iespēju miljoniem cilvēku visā pasaulē izmantot interneta spēku un radīt iespēju mācīties, veidot un attīstīt.',
+  'free' => 'BEZMAKSAS',
+  'new' => 'JAUNS',
+  'coming_soon' => 'Jau drīz',
+  'enrollment_date' => 'Iestāšanās datums',
+  'lesson_number' => 'Nodarbība:numurs',
+);

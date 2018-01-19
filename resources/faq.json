@@ -1,0 +1,313 @@
+[
+  {
+    "name": "Bitdegree",
+    "questions": [
+      {
+        "question": "What is BitDegree?",
+        "answer": "<p>BitDegree is the world's first blockchain-powered, smart-incentive based online education platform which will revolutionize global education and tech recruiting. BitDegree shall directly align the incentives of students and anyone who wants them to become digitally smarter - like current or potential employers, digital service providers and sponsors.</p><p>BitDegree is an educational platform for everyone who is willing to study and get IT job.</p>"
+      },
+      {
+        "question": "How different are you compared to Coursera?",
+        "answer": "<p>BitDegree will be highest quality IT courses website similar as Coursera. The difference is smart-contract based rewards for students learning on platform. In short it means students in addition getting direct benefits for learning on BitDegree platform, which leads to higher education level and lower barrier to enter job marketplace. Please read our whitepaper how does this work in details.</p>"
+      },
+      {
+        "question": "Why this project needs Blockchain technology?",
+        "answer": "<p>Blockchain will put BitDegree online education platform ahead of competition. By enabling us to introduce smart incentives and record students achievements in blockchain. Rewards earned on platform will be exchangeable into digital goods on third party service providers. Sponsoring and distributing attribution can easily be made with smart contracts with every partner.</p>"
+      },
+      {
+        "question": "What achievement data will be stored in blockchain?",
+        "answer": "<p>Students will be able to choose which data will be stored on blockchain. What courses he had passed. By default all student progress will automatically be stored on blockchain.</p>"
+      },
+      {
+        "question": "How can I hide my achievement data on blockchain?",
+        "answer": "<p>Once student have chosen that his data is stored on blockchain, it can not be removed afterwards.</p>"
+      },
+      {
+        "question": "What do the 29m users of two Web Hosts have to do with your product?",
+        "answer": "<p>These users are young and eager to learn which correlates directly with the BitDegree project idea. User base was incentivized with AirDrop of BitDegree tokens.</p>"
+      },
+      {
+        "question": "Who would be your main competitor?",
+        "answer": "<p>We have two types of competitors - technological ones and those on whose revenues we will prey. From the latter category, universities, code academies and recruitment agencies will suffer.</p>"
+      },
+      {
+        "question": "Why companies will be attracted to sponsor courses?",
+        "answer": "<p>Because this is a unique way to:<br>1) stand out among competition in attracting talents<br>2) pre-select the best talents<br>3) choose from the talents that have basic operational knowledge<br>4) when some specific talent is scarce in some geographic location educate it also saves costs compared to traditional methods and is a more responsible way of acquiring talents because the resources end up spent not on the intermediaries but to benefit the talent.</p>"
+      },
+      {
+        "question": "How will you handle abusive clients?",
+        "answer": "<p>BitDegree will provide free tokens for learning and it is a common question to ask how we will handle bots, abusive clients, macro scripts and similar. For this we have planned these solutions:</p><ul><li>Selfie tracking. Will require make a selfie before starting studies.</li><li>Typing pattern tracking. System learns unique text typing for each client.</li><li>Speech recognition. Client has to say words on the screen.</li></ul><p>During system development multiple new ways will be identified which works best.</p>"
+      }
+    ]
+  },
+  {
+    "name": "Education and Courses",
+    "questions": [
+      {
+        "question": "What courses will be available on BitDegree?",
+        "answer": "<p>All courses on BitDegree platform will be IT oriented. Highest quality courses created by best tutors available. <a href=\"https://solidity.bitdegree.org/\" target=\"_blank\" rel=\"nofollow\">Smart contract development course</a> with collaboration with Nexchange.io is our first course.</p>"
+      },
+      {
+        "question": "How much will it cost to study on BitDegree?",
+        "answer": "<p>For the first 1 year all courses on BitDegree will be free to attract as much students as possible. User growth pool will be used to incentivize this traction. In the future premium courses will be offered.</p>"
+      },
+      {
+        "question": "How BitDegree will ensure that student learned a course online?",
+        "answer": "<p>Students are incentivized to do peer-review process for assignments. Course tutor BitDegree token is received for each peer-review students submit. Proof of effort verification process is defined in our whitepaper.</p>"
+      },
+      {
+        "question": "How much tokens will student receive for finished course?",
+        "answer": "<p>Actual amount of token received for course completion will be decided depending on sponsor. Amount may vary on geolocation, language and tutors.</p>"
+      },
+      {
+        "question": "Will there be courses in the other languages?",
+        "answer": "<p>There will be courses in other languages in the future.</p>"
+      },
+      {
+        "question": "Is the platform also suitable for children education?",
+        "answer": "<p>In the beginning our focus will be on the digital skills that are needed by employers, but there is no limit of what a smart kid can learn and we will not discriminate. In the future, we also foresee to address the skills and knowledge needed to acquire at the young age. More news about that - very soon.</p>"
+      },
+      {
+        "question": "Will the courses be membership based or you'll pay for each course you take?",
+        "answer": "<p>Students will be able to choose from a plethora of IT courses. Most of the courses will be free to enroll for the first year. All of the courses has a sponsor who funds the students participating. Depending on sponsor, students will receive micro-scholarships for learning. This is calculated by achievements every student is performing. Think of it this way, if you solve a \"CodeCademy\" style of exercise, you get micro-payment for doing that. This is one way of distributing sponsors funding to students.</p><p>Another way is: Students enroll to paid courses. All the funds are frozen until, the achievement is unlocked. Basically students learn for free, because he is getting back his money while learning. This incentivizes students, to finish the course. There will be more enrollment models how students will learn.</p>"
+      },
+      {
+        "question": "How will our degrees become internationally recognized?",
+        "answer": "<p>We will provide blockchain based certificates issued by BitDegree. Everybody will be able to see each student progress. We will consider using 3rd party services such as blockcerts.org</p>"
+      },
+      {
+        "question": "What is gamification in education?",
+        "answer": "<p>Over the longer term, BitDegree will consider adding an interesting narrative to each course. For instance, rather than simply doing the assignment, tell us we are on a mission to disarm a bomb or address world hunger and the only way to do that is to write a program that contains the exact same features as the abstract version of the course. Some arbitrary graphics like a burning fuse or a hungry child can help provide context. Eventually, we consider creating a higher level context for the entire program that would provide a reason for doing this task whether it be killing the dragon or saving the real world. By creating a contextualized identity for learners, we make course assignments more personally relevant thereby enhancing both learning and motivation to continue and complete the work.</p>"
+      }
+    ]
+  },
+  {
+    "name": "Company",
+    "questions": [
+      {
+        "question": "Is BitDegree.org hiring?",
+        "answer": "<p>We are actively seeking individuals who share our vision for the future of edu-tech, and the education in general. Applicants are encouraged to apply directly―not by means of a recruiter or other representation. Submit application to hello+jobs@bitdegree.org</p>"
+      },
+      {
+        "question": "What is the roadmap?",
+        "answer": "<p>The BitDegree Roadmap is available <a href=\"https://www.bitdegree.org/en/token#roadmap\">here</a>.</p>"
+      },
+      {
+        "question": "How can authors apply to become part of BitDegree.org platform to start creating courses?",
+        "answer": "<p>Yes. Please send us an email to hello+jobs@bitdegree.org</p>"
+      },
+      {
+        "question": "When will students in the BitDegree.org platform be available to opt-in?",
+        "answer": "<p>Please check our roadmap <a href=\"https://www.bitdegree.org/en/token#roadmap\">here</a>.</p>"
+      },
+      {
+        "question": "How many users does the BitDegree.org have?",
+        "answer": "<p>We have partnered with Hostinger International and 000webhost and we are promoting BitDegree services to more than 29 million 000webhost & Hostinger users.</p>"
+      },
+      {
+        "question": "Your partner is 000webhost. It was hacked. How can I trust You?",
+        "answer": "<p>000webhost has a dedicated page explaining what had happened and how company solved security issues <a href=\"https://www.000webhost.com/000webhost-database-hacked-data-leaked\">here</a>.</p>"
+      },
+      {
+        "question": "How do I report a security issue?",
+        "answer": "<p>Please send us an email to hello@bitdegree.org</p>"
+      }
+    ]
+  },
+  {
+    "name": "Token Sale",
+    "questions": [
+      {
+        "question": "What is the symbol of BitDegree token?",
+        "answer": "<p>BDG</p>"
+      },
+      {
+        "question": "When does the token sale start?",
+        "answer": "<p>December 1st. 2017, 14:00 UTC (16:00 GMT +2). It will last for one month or until hard-cap is reached.</p>"
+      },
+      {
+        "question": "What is soft-cap and hard-cap?",
+        "answer": "<p>Soft-cap is 6250000 BDG and Hard-cap is 336600000 BDG tokens.</p>"
+      },
+      {
+        "question": "What is the value of 1 BitDegree (BDG) token at the token sale?",
+        "answer": "<p>Smart contract will automatically issue 10000 BDG tokens for 1ETH sent to smart contract address. So 1 BDG token is worth 1/10000 ETH, if ETH price is $300, 1 token is $0.03.</p>"
+      },
+      {
+        "question": "What is BitDegree Token?",
+        "answer": "<p>ERC20 utility token built on top of Ethereum blockchain. BitDegree token as a mean of exchange can be used among users of the platform: Students, Sponsors, and third party Digital Service Providers.</p><p>Token can be used to create smart-incentives for educational accomplishments, to purchase advertising and recruitment services, and various other digital services offered by third parties on the BitDegree platform.</p><p>Sponsors are the main fuel for a sustainable BitDegree economy. The economic incentive for Sponsors to buy BitDegree tokens is to enhance employer branding and recruitment of tech talent.</p>"
+      },
+      {
+        "question": "BitDegree Token is utility token. What does it mean?",
+        "answer": "<p>Utility token means that BitDegree token is not a security. It follows these rules:</p><ul><li>Token owner <b>does not</b> have voting rights as a shareholder.</li><li>Token owner <b>does not</b> participate in any kind of revenue sharing.</li><li>Token owner <b>does not</b> receive dividends of any kind.</li><li>Tokens will not be bought back.</li><li>There is <b>no expectation of profit from it.</b></li></ul><br><p>BitDegree token passes <a href=\"http://consumer.findlaw.com/securities-law/what-is-the-howey-test.html\" target=\"_blank\">Howey test</a>, because besides other conditions there is no expectation of profit from it.</p>"
+      },
+      {
+        "question": "How to participate in token sale?",
+        "answer": "<p>We will provide more information in this website on how to participate in the token sale once the crowdsale date approaches. Stay tuned! Subscribe to our newsletter. You can start by creating Ethereum wallet on <a href=\"https://www.myetherwallet.com/\" target=\"_blank\">MyEtherWallet</a> this will help to get started easier.</p>"
+      },
+      {
+        "question": "How can you ensure, that you will continue to work after your token sale?",
+        "answer": "<p>The token sale is not BitDegree goal itself. It is only one of the ways to accumulate funds for building a company. Raising money though token sale does not equal to value creating. True value and biggest return for all the shareholders, stakeholders, contributors and investors comes when the global company is being build with the raised funds.</p><p>The core Bitdegree team members are acting actively in IT business since 2004. We are bootstrapped, profitable and proud. We have vision to change the global education to better and token sale is just a starting point. Big advisory board speaks for itself.</p>"
+      },
+      {
+        "question": "Are Tokens transferable? Where are Tokens traded?",
+        "answer": "<p>In order to spread usability and accessibility of BitDegree platform there is a plan to list token at Exchanges. We will share any announcements when things are ready and can be shared.</p><p>We have received requests from 2 Exchanges to list BitDegree token. In general all crypto currency exchanges are able to add ERC20 tokens to their trading platform. This is the information we can provide right now. More information about exchanges will be provided after the crowdsale.</p>"
+      },
+      {
+        "question": "When will tokens be listed in the exchanges?",
+        "answer": "<p> In order to spread usability and accessibility of BitDegree platform there is a plan to list token at Exchanges. We will share any announcements when things are ready and can be shared. No ETA on this.</p>"
+      },
+      {
+        "question": "What do Tokens represent?",
+        "answer": "<p>Think of a token as mini voucher that can be exchanged to services on many digital service providers. Hostinger is the first one who accepts BitDegree token in exchange for services.</p>"
+      },
+      {
+        "question": "Which wallets can be used to store Token?",
+        "answer": "<p>BitDegree Token is an ERC20 token, and can be stored in ERC20 compatible wallets. We do not recommend a particular product, but official <a href=\"https://ethereum.org/\">Ethereum wallet Mist</a> and <a href=\"https://www.myetherwallet.com/\">MyEtherWallet</a> are most common.</p>"
+      },
+      {
+        "question": "What crypto-currencies were accepted during the sale?",
+        "answer": "<p>Only Ethereum (ETH) will be accepted during a sale. People interested in participating using other crypto-currencies will be able to do so using the Tokenlot platform.</p>"
+      },
+      {
+        "question": "What is the distribution of tokens?",
+        "answer": "<p>Distribution of tokens is provided <a href=\"https://www.bitdegree.org/en/token#token-distribution\">in this section</a> of the website.</p>"
+      },
+      {
+        "question": "Is there a pre-sale or whitelist?",
+        "answer": "<p>There is no pre-sale or whitelist.</p>"
+      },
+      {
+        "question": "What is the Tokens smart contract address?",
+        "answer": "<p>Smart Contract address will be published on website bitdegree.org on December 1st. 2017, 14:00 UTC.</p>"
+      },
+      {
+        "question": "When will I receive the tokens?",
+        "answer": "<p>You will receive your tokens immediately once you send your ETH to our smart contract address. They will become tradable 2 weeks after token sale. Read our guidelines how to send ETH to our smart contract to avoid problems receiving your tokens instantly.</p>"
+      },
+      {
+        "question": "How will the user growth pool be used?",
+        "answer": "<p>User growth fund is used to incentivize users to participate in the BitDegree ecosystem.</p><ul><li>A 300 million endowment is for early Students of BitDegree platform.</li><li>No new tokens will be created once the user growth pool is exhausted.</li></ul>"
+      },
+      {
+        "question": "What kind of information do I need to provide to participate in token sale?",
+        "answer": "<p>Your name, last name, email, phone number, country of residence, date of birth and your public wallet address</p>"
+      },
+      {
+        "question": "What's the minimum amount of ETH you can use to buy BDG?",
+        "answer": "<p>The minimum amount of ETH you can buy to use with purchases for BDG is the minimum of ETH = 1 WEI.</p>"
+      },
+      {
+        "question": "What is the period of time for BDG value return?",
+        "answer": "<p>BDG tokens in exchange of its services backing means that the exchange rate is 100% fixed to the crowdsale price for the first year.</p>"
+      },
+      {
+        "question": "I haven’t created a password, how to login now?",
+        "answer": "<p>If you have participated in the airdrop, you only needed to verify your email. To log in follow these steps:<br>1. Press “Join BitDegree Now” and you will be prompted to a sign up page.<br>2. Press Log In button below and fill in your email address and a new password. You are done.<br>3. If you have any further issues press “Forgot password?” and you will receive an email.</p>"
+      },
+      {
+        "question": "Will the unsold tokens be burned?",
+        "answer": "<p>All unsold BitDegree tokens (BDG) will be put in a reserve fund. Reserve fund tokens will be locked for 1 year although they could be used for utility purposes right away. This will stimulate strategic buyers to buy our tokens, but not speculative ones. Tokens will be held according to our pledge.</p>"
+      },
+      {
+        "question": "Where can I find your Smart Contract?",
+        "answer": "<p>Bitdegree Smart Contract is open source and can be viewed on <a href=\"https://github.com/bitdegree/bitdegree-token-crowdsale/tree/master/contracts\" target=\"blank\">Github</a></p>"
+      },
+      {
+        "question": "How can i earn more tokens/earn tokens/where is bounty campaign?",
+        "answer": "<p>You can earn more tokens by participating in our bounty campaigns <a href=\"https://bitcointalk.org/index.php?topic=2225880.0\" target=\"blank\">here</a></p>"
+      },
+      {
+        "question": "What is the difference between Einsteinium (another educoin surging post ICO) and Bitdegree?",
+        "answer": "<p>The Einsteinium Foundation exists to raise money to help fund cutting edge scientific projects. BitDegree is smart-incentive based online education platform which will revolutionize global education and tech recruiting.</p>"
+      },
+      {
+        "question": "Are you making KYC? Do i need KYC?",
+        "answer": "<p>Yes, of course. We kindly ask everyone to make our KYC. It will help us to develop sustainable platform, therefore with KYC you contribute to the development of a sustainable platform.</p>"
+      },
+      {
+        "question": "Will be there corrections of BDG prices regarding ETH price?",
+        "answer": "<p>BDG prices are automatically tied with ETH amount by smart contract, therefore in order to ensure maximal safety we cannot interrupt it.</p>"
+      }
+    ]
+  },
+  {
+    "name": "Legal",
+    "questions": [
+      {
+        "question": "Is BitDegree legitimate, does BitDegree have any legal confirmation?",
+        "answer": "<p>Yes we are. The Central Bank of Lithuania recently acknowledged that BitDegree is operating fully within the frameworks of the Lithuanian and Eurozone legal system. <a href=\"https://blog.bitdegree.org/bank-of-lithuania-confirms-bitdegree-token-and-model-of-operation-is-fully-within-legal-frameworks-ad0cb8e335c2\" target=\"blank\">Read more here.</a></p>"
+      },
+      {
+        "question": "Can US citizens to participate on crowdsale?",
+        "answer": "<p>All US citizens, residents and tax payers are not allowed to participate on crowdsale.</p>"
+      },
+      {
+        "question": "Does this apply for Canadians and other countries? What happens if they don't want the refund?",
+        "answer": "<p>It applies just for US residents. For US residents there will be an opportunity of voluntarily refund, i.e. at their wish they will get an opportunity of refund or to hold tokens further. Please read more about it in <a href=\"https://blog.bitdegree.org/latest-legal-news-on-project-d0582d69a85a\" rel=\"nofollow\" target=\"_blank\">our blog</a>.</p>"
+      },
+      {
+        "question": "But previously you said, that US citizens are allowed to participate in crowdsale. Why did you change your position?",
+        "answer": "<p>BitDegree token is fully utility token and has confirmation from regulator, but taking into account newest SEC practice and from that arising uncertainty, participation of US citizens or residents are no more allowed. Please read more about it in <a href=\"https://blog.bitdegree.org/latest-legal-news-on-project-d0582d69a85a\" rel=\"nofollow\" target=\"_blank\">our blog</a>.</p>"
+      },
+      {
+        "question": "I’m US citizen and already participated on crowdsale, what shall I do now?",
+        "answer": "<p>You will get an e-mail regarding an opportunity of voluntarily refund, i.e. at your wish you will get an opportunity of refund or to hold tokens further. Please read more about it in <a href=\"https://blog.bitdegree.org/latest-legal-news-on-project-d0582d69a85a\" rel=\"nofollow\" target=\"_blank\">our blog</a>.</p>"
+      },
+      {
+        "question": "Does BitDegree actions related with US citizens shows any violations?",
+        "answer": "<p>BitDegree token is fully utility token and has confirmation from regulator. So there is and there was not any violations, but taking into account newest SEC practice and from that arising uncertainty, participation of US citizens or residents are no more allowed. Please read more about it in  <a href=\"https://blog.bitdegree.org/latest-legal-news-on-project-d0582d69a85a\" rel=\"nofollow\" target=\"_blank\">our blog</a>.</p>"
+      }
+    ]
+  },
+  {
+    "name": "Sponsoring",
+    "questions": [
+      {
+        "question": "How can a company become a Sponsor?",
+        "answer": "<p>Please send us an email to hello@bitdegree.org</p>"
+      },
+      {
+        "question": "What are the payment options to fund courses?",
+        "answer": "<p>Everything will be paid in tokens.</p>"
+      },
+      {
+        "question": "What is your business plan for onboarding sponsors to fund BitDegree platform?",
+        "answer": "<p>Approach sponsors explaining BitDegree idea. Sponsors who appreciates the project will join.</p>"
+      },
+      {
+        "question": "What student data is provided to Sponsors?",
+        "answer": "<p>Depending on course and content provider settings, student will be able to choose which data is provided to Sponsors.</p>"
+      },
+      {
+        "question": "Bounty thread (Registration forms are here)",
+        "answer": "<a href=\"https://bitcointalk.org/index.php?topic=2225880.0\" target=\"_blank\">https://bitcointalk.org/index.php?topic=2225880.0</a>"
+      },
+      {
+        "question": "Announcement thread",
+        "answer": "<a href=\"https://bitcointalk.org/index.php?topic=2214321.0\" target=\"_blank\">https://bitcointalk.org/index.php?topic=2214321.0</a>"
+      },
+      {
+        "question": "Telegram chat",
+        "answer": "<a href=\"https://t.me/bitdegree\" target=\"_blank\">https://t.me/bitdegree</a>"
+      }
+    ]
+  },
+  {
+    "name": "Links",
+    "questions": [
+      {
+        "question": "Bounty thread (Registration forms are here)",
+        "answer": "<a href=\"https://bitcointalk.org/index.php?topic=2225880.0\" target=\"_blank\">https://bitcointalk.org/index.php?topic=2225880.0</a>"
+      },
+      {
+        "question": "Announcement thread",
+        "answer": "<a href=\"https://bitcointalk.org/index.php?topic=2214321.0\" target=\"_blank\">https://bitcointalk.org/index.php?topic=2214321.0</a>"
+      },
+      {
+        "question": "Telegram chat",
+        "answer": "<a href=\"https://t.me/bitdegree\" target=\"_blank\">https://t.me/bitdegree</a>"
+      }
+    ]
+  }
+]

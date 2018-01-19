@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'date_25m' => '2007-2016',
+  'date_fundamentals' => 'Q1/Q2 2017',
+  'date_ico' => 'Q3/Q4 2017',
+  'date_courses' => 'Q1 2018 ',
+  'date_hype' => 'Q2/Q3 2018',
+  'date_platform' => 'Q4 2018',
+  'title' => 'Roteiro',
+  'title_25m' => '29M+ Base de usuarios',
+  'title_fundamentals' => 'Fundamentos da Web',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => 'Melhores cursos on-line de aprendizagem de TI',
+  'title_hype' => 'Hype no setor de estudantes',
+  'title_platform' => 'Lançamento da Plataforma Empresarial',
+  'title_future' => 'Futuro',
+  'date_future' => 'Futuro',
+  'description_25m' => 'Chegou a 29 milhões de usuários na 000webhost - plataforma de aprendizado de desenvolvimento web grátis e Hostinger - serviços de hospedagem na web. A maior parte dos usuários é uma nova tecnologia com profunda vontade de aprender, construir e crescer. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow"> os usuários já nos adoram</a> como plataforma de aprendizado online.',
+  'description_fundamentals' => 'Foi preparado um resumo de mais de 500 artigos sobre <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank"> fundamentos de codificação da web </a>. Polimento da estratégia de negócios. Aproximando os primeiros parceiros de negócios. Consultando com inúmeras universidades e empresas e blockchain para desenvolver os primeiros cursos.',
+  'description_ico' => 'Período de construção do contrato inteligente Ethereum para o próximo evento BitTOgree ICO. Um token ERC20, auditando o código SM. Desenvolvimento de parcerias de especialização educacional MOOC. Marketing. BitDegree Token Crowdsale & Evento de Distribuição.',
+  'description_courses' => 'Lançando o primeiro material do curso Blockchain. Contratar especialistas em campo para gerenciar a expansão do projeto. Fonte dos melhores tutores. Pesquisa e implementação do registro de identidade Blockchain. Provedores de terceiros a bordo. Repositório de material de curso e generalização de estrutura. Execute os primeiros 100 cursos com a melhor experiência de aprendizagem on-line do mundo',
+  'description_hype' => 'Continue a melhorar o conhecimento do Blockchain. Primeira bolsa de estudos token já feita. Os primeiros parceiros aceitam token no ecossistema BitDegree. Comece atividades de marketing de pilotagem completa, orientadas para o envolvimento dos alunos com a comunidade de influentes fortes e parcerias de alunos. Acompanhamento de metas e gamings para estudantes. Ferramentas que permitem a verificação do esforço de estudo. Área de estudo e visualizador de realizações dos alunos. Implementação de contratos de incentivo inteligente. Desenvolvimento de plataforma móvel. Estudantes como mentores. Conteúdo de terceiros. Avaliadores de terceiros.',
+  'description_platform' => 'Plataforma desenvolvida e lançada para patrocinadores. Desenvolvimento de negócios para patrocínios fortes com ênfase no desenvolvimento de cursos com foco em habilidades em demanda. Criando pool de recursos para o talento. Índice do material do curso. Área de patrocínio. Área de construção de mapeamentos e caminhos de carreira.',
+  'description_future' => 'Integrações de terceiros. Desenvolvimento de SDK do provedor de serviços digitais. Construindo SDK para um terceiro fornecedor de serviços digitais para integrar Bitdegree Tokens como um meio de troca de valor em ciclo de mercado. Neste momento, as tecnologias blockchain já são amplamente adotadas. As ferramentas para a integração de token em terceiros estão já presentes. BitDegree para Business. Jobs BitDegree. Certificação BitDegree. Diploma descentralizado BitDegree. Assistente de AI de educação BitDegree. Visualizador de diploma descentralizado. Treinamento BitDegree. BitDegree aquisição de jovens talentos. Bitdown Braille (educação cega). BitDegree para países do Terceiro Mundo.',
+);

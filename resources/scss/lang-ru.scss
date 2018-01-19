@@ -1,0 +1,59 @@
+$source-code: 'Roboto Mono', monospace;
+$work-sans: 'Roboto', sans-serif;
+
+@import "main";
+
+.communicate .suscribe-input {
+  font-size: 15px!important;
+}
+
+.nav.navbar-nav li a {
+  font-size: 12px!important;
+}
+
+.ico-info-block table {
+  width: 600px!important;
+}
+
+.token-distribution, .budget-allocation {
+  font-size: 14px!important;
+}
+
+@media (max-width: 767px) {
+  .row.milestone.step-1,
+  .row.milestone.step-1 .milestone-left,
+  .row.milestone.step-1 .milestone-right {
+    height: 400px;
+  }
+  .row.milestone.step-2,
+  .row.milestone.step-2 .milestone-left,
+  .row.milestone.step-2 .milestone-right {
+    height: 295px;
+  }
+  .row.milestone.step-3,
+  .row.milestone.step-3 .milestone-left,
+  .row.milestone.step-3 .milestone-right {
+    height: 295px;
+  }
+  .row.milestone.step-4,
+  .row.milestone.step-4 .milestone-left,
+  .row.milestone.step-4 .milestone-right {
+    height: 425px;
+    position: relative;
+  }
+  .row.milestone.step-5,
+  .row.milestone.step-5 .milestone-left,
+  .row.milestone.step-5 .milestone-right {
+    height: 649px;
+  }
+  .row.milestone.step-6,
+  .row.milestone.step-6 .milestone-left,
+  .row.milestone.step-6 .milestone-right {
+    height: 375px;
+  }
+  .row.milestone.step-7,
+  .row.milestone.step-7 .milestone-left,
+  .row.milestone.step-7 .milestone-right {
+    height: 649px;
+  }
+}

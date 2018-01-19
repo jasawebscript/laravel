@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'title' => '路线图',
+  'date_25m' => '2007-2016',
+  'title_25m' => '超过290万用户基础',
+  'title_fundamentals' => 'Web基础',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => '最好的在线IT教育课程',
+  'title_hype' => '学习者行为分析',
+  'title_platform' => '运行商业平台',
+  'title_future' => '未来',
+  'date_fundamentals' => '2017 春',
+  'date_ico' => '2017 夏/秋',
+  'date_courses' => '2018 冬/春',
+  'date_hype' => '2018 第二季度/第三季度',
+  'date_platform' => '2018 第四季度',
+  'date_future' => '未来',
+  'description_25m' => '拥有2900万用户的000webhost免费网页开发学习平台，以及Hostinger - 虚拟主机服务。 用户最大的一部分是年轻的技术精湛，有深刻的学习，建设和成长的意志。 <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow">用户喜欢</a>我们作为在线学习平台。',
+  'description_fundamentals' => '总计超过500篇关于<a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank">Web编程基础</a>的精心准备的文章. 抛光业务策略。接近第一个商业伙伴与许多大学和块式公司协商开发第一门课程。',
+  'description_ico' => '构建即将到来的BitDegree ICO活动的Ethereme Smart合同期限。一个ERC20货币，auditing SM代码。MOOC的发展教育专业合作伙伴关系。营销。 BitDegree币Crowdsale＆Distribution事件。',
+  'description_courses' => '推出第一个Blockchain课程资料。聘请现场专家来管理项目扩张。来源于最好的导师。区块链身份注册表研究和实施。在案第三方供应商。课程材料存储库和结构概括。启动前100个具有世界最佳在线学习经验的课程。',
+  'description_hype' => '继续Blockchain知识改进。第一名奖学金发行。第一个合作伙伴在BitDegree生态系统中接受BitDegree币。开展全套营销活动，面向与强大影响力社区和校友合作关系的学生参与。学生的成就和游戏化跟踪。能够验证学习努力的工具。学习区和学生成绩查看器。智能奖励合同实施。移动平台开发。学生作为导师。第三方内容。第三方评估员。',
+  'description_platform' => '开发和推出赞助商平台。业务发展强有力的赞助，重点发展课程，重点是技能点播。创建人才采购池。课程材料指标。赞助区课程图片和职业道路建设区域。',
+  'description_future' => '第三方整合。数字服务提供商SDK开发。构建SDK，为第三方数字服务提供商整合Bitdegree令牌作为价值交换的平均值进入市场周期。在这个时候，块链技术已被广泛采用。令牌集成到第三方的工具已经存在。 BitDegree为业务。 BitDegree工作。 BitDegree认证。 BitDegree分散文凭。 BitDegree教育AI助手。分散文凭观众BitDegree培训。 BitDegree年轻人才招募。 BitDegree盲文（盲目教育）。 BitDegree对于第三世界国家。',
+);

@@ -1,0 +1,28 @@
+<?php 
+
+return array (
+  'title_web_fundamentals' => 'نظرية تطوير الويب',
+  'title_coding_fundamentals' => 'أساسيات البرمجة',
+  'title_deep_learning' => 'تعلم عميق',
+  'title_react' => 'تفاعل',
+  'title_vr_development' => 'تطوير VR',
+  'title_ai_development' => 'تطوير AI',
+  'title_robotics' => 'الروبوتيات',
+  'title_neuro_marketing' => 'التسويق العصبي',
+  'title_digital_graphics' => 'الرسومات الرقمية',
+  'title_build_website' => 'بناء موقع من الصفر',
+  'title_building_apps' => 'إنشاء تطبيقات أندرويد',
+  'title_game_development' => 'تطوير الألعاب 2D',
+  'title_blockchain_basics' => 'أساسيات بلوكشين',
+  'title_crypto_intro' => 'مقدمة إلى التشفير و كريبتوكيرنسيز',
+  'title_ethereum_basics' => 'أساسيات إثريوم',
+  'title_smart_contracts' => 'تطوير العقد الذكي والصلب',
+  'title_ethereum_development' => 'تنمية إثريوم : الكمأة وفتح زيبلين',
+  'title' => 'ما هي المشاكل التي حله بيتدجري؟',
+  'subtitle' => 'نحن أنشأنا بتديغري على أرض صلبة من 29 مليون قاعدة مستخدمين الحاليين من هوستينجر و 000webhost - مخلصين، عاطفيين على شبكة الإنترنت، والتعلم والابتكار المجتمع في جميع أنحاء العالم المفتوح. رؤيتنا في هوستينجر هو تمكين الملايين من الناس في جميع أنحاء العالم لفتح قوة الإنترنت ومنحهم القدرة على التعلم، والخلق والنمو.',
+  'free' => 'مجانا',
+  'new' => 'جديد',
+  'coming_soon' => 'قريبا',
+  'enrollment_date' => 'تاريخ التسجيل',
+  'lesson_number' => 'الدرس: الرقم',
+);

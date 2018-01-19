@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'title' => 'Tegevuskava',
+  'title_25m' => '29M+ kasutajat',
+  'title_fundamentals' => 'Veebinduse alused',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => 'Parimad Internetipõhised IT Loengud',
+  'title_platform' => 'Äriplatvormi käivitamine',
+  'title_future' => 'Tulevik',
+  'date_25m' => '2007-2016',
+  'date_fundamentals' => '2017 kevad',
+  'date_ico' => '2017 suvi/sügis',
+  'date_courses' => '2018 talv/kevad',
+  'date_hype' => '2018 Q2/Q3',
+  'date_platform' => '2018 Q4',
+  'date_future' => 'Tulevik',
+  'title_hype' => 'Hüpe õpilaste sektoris',
+  'description_25m' => 'Jõudsime 29 miljoni kasutajani 000webhost\'is - tasuta veebiarenduse õppimise platvorm, ja Hostinger\'is - kvaliteetsed veebimajutuse teenused. Suurim osa meie kasutajaskonnast on noored tehnoloogiahuvilised, kellel on suur õppimis- ja arenemisjanu. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow">Kasutajad armastavad</a> meid kui õppimise platvormi.',
+  'description_fundamentals' => 'Kokkuvõte üle 500\'st artiklist teemal <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank">"veebiarenduse alused"</a> on loodud. Äriideoloogia lihvimine. Esimeste äripartnerite saamine. Mitmete ülikoolide ja blockchain-ettevõtetega konsulteerimine, et luua parimad esimesed loengud.',
+  'description_ico' => 'Ethereum Smart Contract\'i loomine BitDegree ICO sündmuse jaoks. ERC20 token, SM kood. MOOC\'i partnerlussidemete arendamine. Turundus. BitDegree Token Crowdsale & Distribution Event.',
+  'description_courses' => 'Esimene Blockchaini-põhine õppematerjal. Ekspertide värbamine projekti laiendamiseks. Parimate juhendajate värbamine. Blockchaini identiteediregistri uurimine ja rakendamine. Kolmandate osapoolte tekkimine. Kursuste materjalihoidla struktuuri üldistamine. Esimese 100 kursuse täitumine maailma parimal platvormil.',
+  'description_hype' => 'Blockchaini-põhise hariduse täiustamine. Esimene tokeni-stipendium on välja antud. Esimesed partnerid võtavad BitDegree süsteemis tokeneid vastu. Täieliku turunduse käivitamine, mis keskendub õpilaste värbamisele ja Alumni partnerlusele. Arengu jälgimine õpilaste jaoks. Tööriistad, millega saab õppimise pingutusi jälgida. Õpikeskkond ja õpilase saavutuste jälgimine. Lepingute rakendamine. Mobiiliplatvormi arendamine. Õpilased kui juhendajad. Kolmandate osapoolte sisu. Kolmandate osapoolte hindajad.',
+  'description_platform' => 'Arendasime ja käivitasime sponsoritele mõeldud platvormi. Suur osa programmi tööst põhineb sponsoritel. Talentide leidmise vahendid.',
+  'description_future' => 'Kolmandate osapoolte ühendamine. "Digital Service Provider SDK" arendus. SDK, mis lubab kolmandatel osapooltel Bitdegree tokeneid oma maksevahendina kasutada. Praegusel ajahetkel on blockchain\'i tehnoloogiad laialtlevinud. Tööriistad tokenite kasutamiseks kolmandate osapoolte poolt on olemas. BitDegree äride jaoks. BitDegree töökohad. BitDegree sertifikatsioon. BitDegree detsentraliseeritud dipolom. BitDegdree hariduse AI abiline. Detsentraliseeritud diplomi kontrollija. BitDegree treening. BitDegree noore talendi otsing. BitDegree kolmanda maailma riikide jaoks.',
+);

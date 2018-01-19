@@ -1,0 +1,28 @@
+<?php 
+
+return array (
+  'title_web_fundamentals' => 'Théorie du développement Web',
+  'title_coding_fundamentals' => 'Fondamentaux du codage',
+  'title_deep_learning' => 'Deep Learning',
+  'title_react' => 'React',
+  'title_vr_development' => 'Développement VR',
+  'title_ai_development' => 'Développement AI',
+  'title_robotics' => 'Robotique',
+  'title_neuro_marketing' => 'Neuro-Marketing',
+  'title_digital_graphics' => 'Graphisme numérique',
+  'title_build_website' => 'Créer un site web à partir de zéro',
+  'title_building_apps' => 'Création d\'applications Android',
+  'title_game_development' => 'Développement de jeux 2D',
+  'title_blockchain_basics' => 'Principes de base du Blockchain',
+  'title_crypto_intro' => 'Introduction au Cryptage et aux Cryptomonnaies',
+  'title_ethereum_basics' => 'Bases de l\'Ethereum',
+  'title_smart_contracts' => 'Développement de contrats intelligents et Solidité',
+  'title_ethereum_development' => 'Développement de l\'Ethereum : Truffle et Open Zeppelin',
+  'title' => 'Quels problèmes BitDegree résout-il?',
+  'subtitle' => 'Nous établissons BitDegree sur un terrain solide de 29 millions d\'utilisateurs existants venant de Hostinger et 000webhost: une communauté internationale ouverte, fidèle, passionnée par le Web, l\'apprentissage et l\'innovation. Notre vision chez Hostinger est de permettre à des millions de personnes à travers le monde de libérer le pouvoir d\'Internet et de les rendre autonomes; pour apprendre, créer et grandir.',
+  'free' => 'GRATUIT',
+  'new' => 'NOUVEAU',
+  'coming_soon' => 'Arrive bientôt',
+  'enrollment_date' => 'Date d\'inscription',
+  'lesson_number' => 'Leçon :number',
+);

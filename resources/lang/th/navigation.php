@@ -1,0 +1,27 @@
+<?php 
+
+return array (
+  'what-is' => 'BitDegree คืออะไร',
+  'people' => 'บุคคลเบื้องหลัง',
+  'mvp' => 'MVP',
+  'bitcointalk' => 'ของรางวัล',
+  'one-pager' => 'Pitch Deck',
+  'white-paper' => 'White-paper',
+  'ico' => 'ICO &amp; Roadmap',
+  'faq' => 'FAQ',
+  'blog' => 'บล็อก',
+  'what-it-is' => 'BitDegree คืออะไร?',
+  'users' => 'ผู้ใช้ของเรา',
+  'problems' => 'เราแก้ปัญหาอะไร?',
+  'moocs' => 'เกี่ยวกับ MOOCs',
+  'perspective' => 'มุมมองของนักเรียน',
+  'demand' => 'ความต้องการงาน IT',
+  'economy' => 'Token Economy',
+  'team' => 'ทีม',
+  'roadmap' => 'โร้ดแมป',
+  'top' => 'Top',
+  'subscribe' => 'ลงทะเบียนติดาม',
+  'email_placeholder' => 'ป้อนอีเมลเพื่อรับข่าวสาร',
+  'no_account' => 'ไม่พบบัญชีที่ตรงกับอีเมลดังกล่าว',
+  'link_expired' => 'ขออภัยลิงค์ไม่ถูกต้องหรือหมดอายุ โปรดลองเข้าสู่ระบบอีกครั้ง',
+);

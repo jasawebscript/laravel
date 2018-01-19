@@ -1,0 +1,28 @@
+<?php 
+
+return array (
+  'my_account' => 'Mans konts',
+  'enter_email' => 'Ievadīt e-pastu',
+  'welcome_back' => 'Ar atgriešanos, :name!',
+  'login' => 'Pierakstīties',
+  'link_sent' => 'Jūsu tūlītējas pierakstīšanās saite tika nosūtīta e-pastā.',
+  'back_home' => 'Atpakaļ uz sākumlapu',
+  'unknown_error' => 'Radās nezināma kļūme. Lūdzu, pārliecinities, ka ievadījāt pareizos datus un mēģinet vēlreiz.',
+  'already_member' => 'Jums jau ir konts BitDegree! Spiediet <strong>Pierakstīties</strong> zemāk, lai autentificētos.',
+  'email_address' => 'E-pasta adrese',
+  'sample_email' => 'tu@piemers.lv',
+  'or_signup' => 'vai Reģistrēties',
+  'signup' => 'Reģistrēties',
+  'check_email' => 'Jūs esat soļa attālumā, lai nodrošinātu <b>savu bezmaksas žetonu</b>. Lūdzu, pārbaudiet e-pastu, kuru norādījāt reģistrācijas procesā, lai apmeklētu apstiprinājuma saiti.',
+  'please_provide' => 'Lūdzu, aizpildiet informāciju, lai reģistrētos Bitdegree',
+  'name' => 'Jūsu vārds',
+  'optional' => 'neobligāts',
+  'or_login' => 'vai Pierakstīties',
+  'congrats' => 'Apsveicam, {{ $participant->first_name or $participant->email }}!',
+  'tokens_secured' => '<h3>Jums ir</h3 ><h1>:number BDG</h1> <h3>žetonu nodrošinājums</h3>',
+  'share' => 'Dalieties, lai saņemtu vairāk <b>FREE</b> žetonu:',
+  'congratulations' => 'Apsveicam, :name!',
+  'logout' => 'Izrakstīties',
+  'almost_done' => 'Gandrīz gatavs...',
+  'register' => 'Reģistrēties',
+);

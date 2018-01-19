@@ -1,0 +1,28 @@
+<?php 
+
+return array (
+  'title_web_fundamentals' => 'Webfejlesztési elmélet',
+  'title_coding_fundamentals' => 'Kódolás alapjai',
+  'title_deep_learning' => 'Mély tanulás',
+  'title_react' => 'Reakció',
+  'title_vr_development' => 'VR Fejlesztés',
+  'title_ai_development' => 'MI Fejlesztés',
+  'title_robotics' => 'Robotika',
+  'title_neuro_marketing' => 'Neuro marketing',
+  'title_digital_graphics' => 'Digitális grafika',
+  'title_build_website' => 'Építsen honlapot az alapokról',
+  'title_building_apps' => 'Android alkalmazások készítése',
+  'title_game_development' => '2D Játékfejlesztés',
+  'title_blockchain_basics' => 'Blockchain alapok',
+  'title_crypto_intro' => 'Bevezetés a Crypto és Cryptovaluták világába',
+  'title_ethereum_basics' => 'Eteum alapjai',
+  'title_smart_contracts' => 'Okos szerződés fejlesztés & szolidítás',
+  'title_ethereum_development' => 'Eteum fejlesztés: Truffle és Open Zeppelin',
+  'title' => 'Milyen problémákat old meg a BitDegree?',
+  'subtitle' => 'Létrehoztuk a BitDegree-t egy stabil talajon 29 millió felhasználóval a Hostinger és 000webhost adatbázisából - hűséges, web szenvedélyes, tanulni vágyó és innovált, valamint nyílt világszintű közösséggel. A látásmódunk a Hostingernél, hogy lehetővé tegyük emberek millióinak, hogy megszerezzék az Internet erejét és hogy utat adjunk nekik a tanuláshoz, készítéshez és fejlődéshez.',
+  'free' => 'INGYENES',
+  'new' => 'ÚJ',
+  'coming_soon' => 'Hamarosan',
+  'enrollment_date' => 'Bejegyzés dátuma',
+  'lesson_number' => 'Lecke :number',
+);

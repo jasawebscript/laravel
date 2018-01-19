@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'title' => 'Roadmap',
+    'title_25m' => '29M+ user base',
+    'title_fundamentals' => 'Web fundamentals',
+    'title_ico' => 'BitDegree Crowdsale',
+    'title_courses' => 'Best online IT Learning Courses',
+    'title_hype' => 'Hype on Student sector',
+    'title_platform' => 'Business Platform launch',
+    'title_future' => 'Future',
+    'date_25m' => '2007-2016',
+    'date_fundamentals' => '2017 Q1/Q2',
+    'date_ico' => '2017 Q3/Q4',
+    'date_courses' => '2018 Q1',
+    'date_hype' => '2018 Q2/Q3',
+    'date_platform' => '2018 Q4',
+    'date_future' => 'Future',
+    'description_25m' => 'Reached 29 million users on 000webhost - free web development learning platform, and Hostinger - web hosting services. Biggest part of users are young tech-savvy with deep will to learn, build and grow. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow">Users love</a> us as an online learning platform already.',
+    'description_fundamentals' => 'Summary of 500+ articles about <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank">web coding fundamentals</a> was prepared. Polishing of the business strategy. Approaching first business partners. Consulting with numerous universities and blockchain companies to develop first courses.',
+    'description_ico' => 'Period of building Ethereum Smart Contract for BitDegree Token Sale. An ERC20 token, auditing SM code. Development of MOOC Educational expertise partnerships. Marketing. BitDegree Token Crowdsale & Distribution Event.',
+    'description_courses' => 'Launching the first Blockchain course material. Hire field experts to manage project expansion. Source the best tutors. Blockchain identity registry research and implementation. Onboard 3rd party providers. Course material repository and structure generalization.Launch first 100 courses with world’s best online learning experience.',
+    'description_hype' => 'Continue Blockchain knowledge improvement. First token scholarship issued. First partners accept token in BitDegree ecosystem. Start full-stack marketing activities, oriented on student engagement with strong influencers community & Alumni partnerships. Achievement and gamification tracking for students. Tools enabling verification of study effort. Study area and student achievements viewer. Smart incentives contract implementation. Mobile platform development. Students as mentors. 3rd party content. 3rd party assessors.',
+    'description_platform' => 'Developed & launched platform for Sponsors. Business development towards strong sponsorships with emphasis development of courses with a focus on skills in-demand. Creating sourcing pool for talent. Course material index. Sponsorship area. Course chunks mapping and career paths building area.',
+    'description_future' => '3rd party integrations. Digital Service Provider SDK Development. Building SDK for a third party Digital Service Providers to integrate Bitdegree Tokens as a mean of value exchange into market cycle. At this point in time blockchain technologies are already widely adopted. Tools for token integration into 3rd parties is already present. BitDegree for Business. BitDegree Jobs. BitDegree Certification. BitDegree Decentralized Diploma. BitDegree education AI assistant. Decentralized diploma viewer. BitDegree training. BitDegree young talent aquisition. BitDegree Braille (blind education). BitDegree for Third World countries.',
+];

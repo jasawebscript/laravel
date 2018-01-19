@@ -1,0 +1,26 @@
+<?php 
+
+return array (
+  'title' => 'Ütemterv',
+  'title_25m' => '29M+ felhasználó bázis',
+  'title_fundamentals' => 'Webalapok',
+  'title_ico' => 'BitDegree ICO',
+  'title_courses' => 'A legjobb online IT tanfolyamok',
+  'title_hype' => 'Hype a diákszektorra',
+  'title_platform' => 'Az üzleti platform elindítása',
+  'title_future' => 'Jövő',
+  'date_25m' => '2007-2016',
+  'date_fundamentals' => '2017 Q1/Q2',
+  'date_ico' => '2017 Q3/Q4',
+  'date_courses' => '2018 Q1',
+  'date_hype' => '2018 Q2/Q3',
+  'date_platform' => '2018 Q4',
+  'date_future' => 'Jövő',
+  'description_25m' => 'Több mint 29 millió felhasználó a 000webhoston - ingyenes webfejlesztésre szolgáló platform, illetve a Hostinger - webtárhely szolgáltatás. A legnagyobb része a felhasználóknak fiatal technológiai zseni és igazán szeret tanulni, építeni és fejlődni. <a href="https://www.trustpilot.com/review/www.000webhost.com" target="_blank" rel="nofollow">A felhasználók szeretnek</a> minket mint egy meglévő online tanulási platform.',
+  'description_fundamentals' => 'Több mint 500 cikk összefoglalása a <a href="https://www.bitdegree.org/learn/web-fundamentals" target="_blank">webes kódolás alapjairól</a> előkészítve. Az üzleti stratégia polírozása. Hamarosan kezdő parnetcégekkel. Tanácsadás számos egyetemmel és blockchain vállalattal, hogy létrehozzuk a legelső tanfolyamokat.',
+  'description_ico' => 'Építési időszak a Ethereum inteligens szerződéshez a kjözelgő BitDegree ICO eseményre. Egy ERC20 zseton, az SM kód vizsgálata. Az MOOC fejlesztése oktatási szekérdelemmel. Marketing. BitDegree zseton Crowdsale & Terjesztési esemény.',
+  'description_courses' => 'Az első Blockchain tanfolyam anyag indítása. Alkalmazzon helyi szakártőket, hogy kezeljék a projekt terjeszkedését. A legjobb oktatók forrása. A Blockchain identitás regisztrációs kutatás és befektetés. A fedélzeten harmadik fél szolgáltatókkal. A tanyanyag gyűjtemény és felépítés and structure általánosítás. Az első 100 tanfolyam indítása a világ legjobb online tanulási élményével.',
+  'description_hype' => 'Folytassa a Blockchain tudásának fejlődését. Az első zseton ösztöndíj kiadva. A legelső partnerek elfogadják a zsetonokat a BitDegree ökoszisztémában. Kezdjen teljes marketing tevékenységekkel, orientált tanulói elkötelezettséggel, valamint nagybefolyású közösséggel & Alumni partnerségekkel. A teljesítmény és pontkövetés a tanulóknak. Eszközök a tanulmányi erőfeszítések ellenőrzésére. Tanulmányi terület és tanulói eredmények megtekintése. Inteligens ösztönző szerződés befektetés. Mobil platform fejlesztés. Tanulók, mint mentorok. Harmadik fél tartalom. Harmadik fél értékelők.',
+  'description_platform' => 'Fejlesztett & elindított platform a Támogatóknak. A cégfejlesztés az erős szponzorálás felé hangsúlyozás fejlesztésével különös hangsúlyt fektetve a tanfolyamokra, amelyek a kereslethez kapcsolódó készségekre koncentrálnak. Forrásbevitelek létrehozása a tehetségekért. Tananyag index. Szponzorterület. Tanfolyam részegységek feltérképezése és karrierek felépítése.',
+  'description_future' => 'Harmadik fél integrációk. Digitális szolgáltatás SDK fejlesztés. SDK építése harmadik felek számára, hogy integrálják a BitDegree zsetonokat a piaci körbe. Ebben a pontban a blockchain technológia már széleskörűen adott. Eszközök a zseton integrációkra a harmadik félnek, ami már adott. A BitDegree vállalatoknak. BitDegree munkák. BitDegree tanúsítvány. BitDegree Decentralizált diploma. BitDegree oktatás AI asszisztens. Decentralizált diploma keresés. BitDegree kiképzés. BitDegree fiatal tehetségek megszerzése. BitDegree vakírás (vak oktatás). BitDegree a harmadik világ országai számára.',
+);

@@ -1,0 +1,27 @@
+<?php 
+
+return array (
+  'what-is' => 'Mi az a BitDegree',
+  'people' => 'Emberek mögötte',
+  'mvp' => 'MVP',
+  'bitcointalk' => 'Adomány',
+  'one-pager' => 'Pitch Deck',
+  'white-paper' => 'Fehér papír',
+  'ico' => 'ICO &amp; Roadmap',
+  'faq' => 'GYIK',
+  'blog' => 'Blog',
+  'what-it-is' => 'Mi az a BitDegree?',
+  'users' => 'Felhasználóink',
+  'problems' => 'Milyen problémákat oldunk meg?',
+  'moocs' => 'Az MOOC-ról',
+  'perspective' => 'Student Perspective',
+  'demand' => 'IT munkahely kereslet',
+  'economy' => 'Zseton gazdagság',
+  'team' => 'A Csapat',
+  'roadmap' => 'Ütemterv',
+  'top' => 'Top',
+  'subscribe' => 'Feliratkozás',
+  'email_placeholder' => 'Írja be az emailt, hogy megkapja a frissítéseket',
+  'no_account' => 'A fiók a megadott email címmel nem létezik.',
+  'link_expired' => 'Sajnáljuk, ez a link érvénytelen vagy már lejárt. Kérem próbáljon meg belépni újra.',
+);

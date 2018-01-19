@@ -1,0 +1,27 @@
+<?php 
+
+return array (
+  'what-is' => 'Wat is BitDegree',
+  'people' => 'Het Team',
+  'mvp' => 'MVP',
+  'bitcointalk' => 'Bounty',
+  'one-pager' => 'Pitch Deck',
+  'white-paper' => 'Whitepaper',
+  'ico' => 'ICO &amp; Roadmap',
+  'faq' => 'FAQ',
+  'blog' => 'Blog',
+  'what-it-is' => 'Wat is BitDegree?',
+  'users' => 'Onze Gebruikers',
+  'problems' => 'Welke problemen lossen wij op?',
+  'moocs' => 'Over MOOCs',
+  'perspective' => 'Studentenperspectief',
+  'demand' => 'IT Werk Vraag',
+  'economy' => 'Tokeneconomie',
+  'team' => 'Het Team',
+  'roadmap' => 'Roadmap',
+  'top' => 'Top',
+  'subscribe' => 'Abonneren',
+  'email_placeholder' => 'Vul je e-mailadres in om updates te ontvangen',
+  'no_account' => 'Er bestaat geen account met het opgegeven e-mailadres.',
+  'link_expired' => 'Sorry, deze link is ongeldig of is reeds verlopen. Probeer het opnieuw door opnieuw in te loggen.',
+);
